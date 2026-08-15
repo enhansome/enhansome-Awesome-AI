@@ -119,7 +119,7 @@
             "last_commit": "2026-08-11T02:07:25Z",
             "owner": "ChatGPTNextWeb",
             "repo": "NextChat",
-            "stars": 88614
+            "stars": 88613
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2024-08-16T15:26:57Z",
             "owner": "Chanzhaoyu",
             "repo": "chatgpt-web",
-            "stars": 31518
+            "stars": 31514
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-04-30T13:54:58Z",
             "owner": "GaiZhenbiao",
             "repo": "ChuanhuChatGPT",
-            "stars": 15287
+            "stars": 15286
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:34:09.177Z",
+    "last_updated": "2026-08-15T23:33:23.077Z",
     "original_repository": "runningcheese/Awesome-AI",
     "original_repository_sha": "50e965595d1fe120056ad9de22cc8239aea1fa37",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI",
