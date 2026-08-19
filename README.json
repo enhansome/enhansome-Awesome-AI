@@ -1,315 +1,98 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "一、官方网站"
-    },
-    {
-      "description": "ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法（普通节点不可用），注册时需要境外手机号。\n官网：https://chat.openai.com\n注册：中国区注册 OpenAI 账号\n说明：\n我有魔法，但还是无法使用 ChatGPT，怎么办？这是因为 ChatGPT 主动屏蔽了中国大陆地区。\n我们可以使用 WARP 网络来绕开屏蔽，现成可以一键导入的方法：看这里。\n自己手动申请 Cloudflare 的免费 WARP：看这里。",
-      "items": [],
-      "title": "1.1、免费帐户"
-    },
-    {
-      "description": "此外，OpenAI 还推出了 Plus 付费版本。\n价格 19.9 美元/月，它的速度更快，高峰期也能正常使用，而且没有对话次数限制，最新还支持插件功能。\n教程：ChatGPT Plus 开通教程",
-      "items": [],
-      "title": "1.2、Plus 帐户"
-    },
-    {
-      "description": "ChatGPT 还有另外一种形式：API Key。\n它可以用于第三方 ChatGPT 应用程序，拥有与 ChatGPT 完全一样的功能，而且在国内网络下也能正常使用。\n它的优势在于，拥有更大的自定义和灵活性。\n但 API Key 并不免费，ChatGPT 会赠送注册用户 5 美元的额度，但不管你用不用，1 个月后都会被清零收回。\n官方 API Key 查询：https://platform.openai.com/account/api-keys\n查询 API Key 余量：https://aivesa.com/checkbilling\n免费 API Key 1：https://faucet.openkey.cloud\n免费 API Key 2：https://terobox.com\n免费 API Key 3：https://djsfenxiang.com\nAPI Key 收费：\nChatGPT Plus 采用每月固定 20 美元的收费方式，但对于轻度使用的用户来说，ChatGPT API 的方式更为灵活。\n每 0.002 美元 1000 Tokens，每 100 万单词 18 元人民币，\n每 100 万汉字 28.5 元人民币，每 1 元人民币约 3.5 万汉字 。\nGPT-4 的 Token 消耗，根据使用情况，是 GPT-3 的 15 倍 和 30 倍，而且必须是 Plus 付费用户。\nToken 说明：\nToken 是指的是一段话里被分出来的词汇，比如：I love you，就是 3 个 Tokens。\n而其它语言的 Token，需要先将它们转化 Unicode 后再算 Token，比如中文的“我爱你”，就是 11 个 Tokens。\nToken 计算 1：https://platform.openai.com/tokenizer\nToken 计算 2：https://tiktokenizer.vercel.app\nToken 计算 3：https://openai.deepakness.com",
-      "items": [],
-      "title": "1.3、API Key"
-    },
-    {
-      "description": "国内网络购买 ChatGPT 服务是比较困难的，那怕 OpenAI 官方发布的 iOS 应用也会频繁遇到购买失败的情况。\n退而求其次的方法，是找第三方“合租代买”，当然价格是肯定会比原价高的，这样的店铺有很多。\n比如 银河录像局、奈飞小铺、蜜糖商店，它们的特点是在国内有备案，“跑路”的概率更低。\n合租地址：https://nf.video/yinhe/web",
-      "items": [],
-      "title": "1.4、合租代买"
-    },
-    {
-      "description": "OpenAI 开放了 GPT-3.5-turbo 的 API。\nGPT-3.5-turbo 在内容上与 ChatGPT 完全一致，拥有 API Key 后，你就不再需要访问 ChatGPT 官方网页了。\n最重要的是，它的速度非常快，这也是第三方 ChatGPT 网站和应用涌现的原因。",
-      "items": [],
-      "title": "二、GPT-3 镜像"
-    },
-    {
-      "description": "白票技巧：所有无需登录就能使用的网站，只需要清除 Cookie，就可以重置使用额度。",
-      "items": [],
-      "title": "2.1、无需魔法"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2.2、需要魔法"
-    },
-    {
-      "description": "一个让你呼吸顺畅的 ChatGPT。\n网友搭建的一个 ChatGPT 帐号共享网站，除了可以免费、免翻使用 ChatGPT，而且可以绕过 Cloudflare 检测。\n帐号来源于网友共享，点击即可使用，第一次使用时，需要输入 8 个字符来隔绝会话保护隐私。\n之后就可以畅爽使用 ChatGPT 了。\n地址：https://chat-shared3.zhile.io/shared.html [🔍]\n说明：如果地址失效，可以将链接里的 3 改成 4。",
-      "items": [],
-      "title": "3.3、Pandora"
-    },
-    {
-      "description": "2023 年3月14日，OpenAI 发布 GPT-4。\n相比之下，GPT-4 的回答准确性不仅大幅提高，还具备更高水平的识图能力，输入限制也提升至 2.5 万字。\n目前 GPT-4 只能通过 Plus 帐号体验，价格 19.9 美元/月，而且国内帐户无法直接购买。\n下面我找了一些 GPT-4 替代方案。",
-      "items": [],
-      "title": "三、GPT-4 镜像"
-    },
-    {
-      "description": "微软自称已在 New Bing 中集成 GPT-4，但实际效果不可知。",
-      "items": [],
-      "title": "3.1、NewBing"
-    },
-    {
-      "description": "Forefront Chat 是国外最近上线的一款在线机器人聊天网站，其底层应用是基于 Vercel.com 的 AI Playground。\n它集成了 GPT-3 和 GPT-4（输入框右边图标可切换），还内置了 68 个知名人物，让你的聊天各不相同。\n实际测试，登陆后可以使用 GPT4（每 3 小时 5 条消息）\n地址：https://chat.forefront.ai [🔍]",
-      "items": [],
-      "title": "3.2、Forefront Chat"
-    },
-    {
-      "description": "Poe 是国外知识问答网站 Quora，基于多个第三方大型语言模型训练的 AI 聊天应用，顶部有多个机器人名称。\n用户每天免费使用 GPT-4 一次和 Claude+ 三次。值得一说的是，Poe 支持国内双币种信用卡。\nSage：更擅长英语以外的语言。\nClaude：专注于英语，更擅长于创意写作任务。\nClaude+：优于 Claude，尤其是在非英语语言方面。\nClaude 100K：支持一性次输入 75000 个单词，远超 GPT-4 32K 的 25000 个单词。\nClaude-instant：Claude 的超快响应版。\nChatGPT：原版 ChatGPT\nDragonfly：响应内容较短，因为它使用的是 text-davinci-003 模型。\nGPT-4：目前可用的最强大语言模型。\n地址：https://poe.com",
-      "items": [],
-      "title": "3.3、Poe"
-    },
-    {
-      "description": "Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定的 prompt，可以创建用于不同场景的聊天机器人。\n在 Ora Explore 页面上有很多基于 GPT-3.5 的聊天机器人，并且不必登录便可以访问。\n同时，Ora.sh 也提供了GPT-4 的试用。\n地址：https://ora.sh/openai/gpt4 [🔍]",
-      "items": [],
-      "title": "3.4、Ora.sh"
-    },
-    {
-      "description": "GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。\n包括 Forefront.ai、Poe.com、BingChat 等网站。\n接口是通过“逆向工程”获取的，然后需要在 Discord 上面使用（免费），算得上是目前最热门的 GPT-4 项目。\n",
-      "items": [],
-      "title": "3.5、GPT4free"
-    },
-    {
       "description": "原版 ChatGPT 不仅有访问上的限制，而且没有辅助功能，于是网友开发了各种“增强版” 的 ChatGPT 网页应用。\n注意，大多数情况下，下面的应用都需要先填写 API Key。\n免费 API Key 可参考本文章节 1.3 。",
-      "items": [],
-      "title": "四、网页应用"
-    },
-    {
-      "description": "TypingMind 是国外一名的网友，他实在不喜欢 ChatGPT 打字慢，还有频繁登录，于是开发了增强版 ChatGPT 。\n本质上，它是一个基于 ChatGPT API 的应用，但它有更好的用户界面和功能。\n包括聊天搜索、提示词库、网络搜索、上传文档等功能。\n地址：https://www.typingmind.com [🔍]",
-      "items": [],
-      "title": "4.1、TypingMind"
-    },
-    {
-      "description": "ChatKit 是另一款基于 OpenAI API 的增强版 ChatGPT。\n它拥有 TypingMind 的所有功能，除了可以上传文档来聊天，它还可以输入网页 URL 来做为上下文素材。\n地址：https://chatkit.app [🔍]",
-      "items": [],
-      "title": "4.2、ChatKit"
-    },
-    {
-      "description": "上面两个并没有开源，而 Chatbot UI 填补了这一空缺。\n同样，Chatbot UI 也是基于 ChatGPT API 的网页应用，界面与原版很像，可自定义提示词，支持数据导入导出。\n地址：https://ai.qiaomu.pro/zh [🔍]\n开源：https://github.com/mckaywrigley/chatbot-ui",
-      "items": [],
-      "title": "4.3、Chatbot UI"
-    },
-    {
-      "description": "Chat Chat 是另一款开源 ChatGPT API 网页应用。\n支持的功能十分丰富，包括 语音朗读、文件聊天、网页搜索、对话分享、提示词库、Markdown 格式等功能。\n地址：https://chat.okisdev.com/zh-CN [🔍]",
-      "items": [],
-      "title": "4.4、Chat Chat"
-    },
-    {
-      "description": "MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独特之处在于支持 ChatGPT 的插件功能。\n而且，还内置了提示词库，支持聊天记录和搜索等功能。\n遗憾的是，网站默认使用英文，而它自带的“谷歌翻译”，效果不是很理想。\n地址：https://thesamur.ai/mygpt [🔍]",
-      "items": [],
-      "title": "4.5、MyGPT"
-    },
-    {
-      "description": "如果你想利用 ChatGPT API 自建 ChatGTP 网页，以供别人使用，下面这些开源的项目，都是不错的选择。",
       "items": [
         {
-          "node_type": "item",
-          "title": "ChatGPT-Next-Web",
-          "description": "[演示网站]，奶酪搭建的网站：https://cheesechat.vercel.app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T02:07:25Z",
-            "owner": "ChatGPTNextWeb",
-            "repo": "NextChat",
-            "stars": 88620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPT Web",
-          "description": "[演示网站]，第三方镜像网站最常用的项目。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2024-08-16T15:26:57Z",
-            "owner": "Chanzhaoyu",
-            "repo": "chatgpt-web",
-            "stars": 31510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chuanhu ChatGPT",
-          "description": "[演示网站]，可直接在 Hugging Face 上部署。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T13:54:58Z",
-            "owner": "GaiZhenbiao",
-            "repo": "ChuanhuChatGPT",
-            "stars": 15283
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chatgpt Demo",
-          "description": "[演示网站]，速度飞快",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-27T01:44:01Z",
-            "owner": "anse-app",
-            "repo": "chatgpt-demo",
-            "stars": 7941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGpt-Web",
-          "description": "[演示网站]，使用 React 搭建，还支持绘画。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-03T17:41:54Z",
-            "owner": "79E",
-            "repo": "ChatGpt-Web",
-            "stars": 1364
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatGPT-Next-Web",
+              "description": "[演示网站]，奶酪搭建的网站：https://cheesechat.vercel.app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612344730,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T02:07:25Z",
+                "owner": "ChatGPTNextWeb",
+                "repo": "NextChat",
+                "stars": 88622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT Web",
+              "description": "[演示网站]，第三方镜像网站最常用的项目。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 599394820,
+                "language": "Vue",
+                "last_commit": "2024-08-16T15:26:57Z",
+                "owner": "Chanzhaoyu",
+                "repo": "chatgpt-web",
+                "stars": 31509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chuanhu ChatGPT",
+              "description": "[演示网站]，可直接在 Hugging Face 上部署。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608660982,
+                "language": "Python",
+                "last_commit": "2026-04-30T13:54:58Z",
+                "owner": "GaiZhenbiao",
+                "repo": "ChuanhuChatGPT",
+                "stars": 15283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chatgpt Demo",
+              "description": "[演示网站]，速度飞快",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608490374,
+                "language": "TypeScript",
+                "last_commit": "2023-12-27T01:44:01Z",
+                "owner": "anse-app",
+                "repo": "chatgpt-demo",
+                "stars": 7941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGpt-Web",
+              "description": "[演示网站]，使用 React 搭建，还支持绘画。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632538509,
+                "language": "TypeScript",
+                "last_commit": "2025-04-03T17:41:54Z",
+                "owner": "79E",
+                "repo": "ChatGpt-Web",
+                "stars": 1364
+              }
+            }
+          ],
+          "description": "如果你想利用 ChatGPT API 自建 ChatGTP 网页，以供别人使用，下面这些开源的项目，都是不错的选择。",
+          "node_type": "group",
+          "title": "4.6、自建 ChatGPT"
         }
       ],
-      "title": "4.6、自建 ChatGPT"
-    },
-    {
-      "description": "如果你习惯在桌面客户端上使用 ChatGPT。\n同样也有很多基于 ChatGPT API 的桌面客户端，但分为两种，一种是可免费使用 的，一种是需要自备 API 的。",
-      "items": [],
-      "title": "五、桌面应用"
-    },
-    {
-      "description": "灵动 AiChat 是国内站长开发的免费 ChatGPT ，有网页版和客户端版本，无需登录，国内网络就可以直接使用。\n本质上，这款软件就是将网页版嵌入到客户端里，所以它可以动态更新网页，也就不会失效了。\n支持 Windows、macOS、安卓 三个平台。\n网页版：https://aiask7.com/ 密码：666\n客户端：https://kkks.lanzout.com/s/ldaichat",
-      "items": [],
-      "title": "5.1、灵动 AiChat"
-    },
-    {
-      "description": "OneGPT 一款聚合了 ChatGPT、文心一言、通义千问、POE、Bard、New Bing 等多个平台的客户端。\n同样，软件也内置了免费的 ChatGPT 镜像网站，同时你也可以使用自己的 API Key。\n支持 Windows、macOS 和 Linux。\n下载：https://github.com/1595901624/gpt-aggregated-edition",
-      "items": [],
-      "title": "5.2、OneGPT"
-    },
-    {
-      "description": "ShellGPT 也是一款聚合了多个网站的免费 ChatGPT 客户端，无需登录，多节点自动切换，还支持免翻 Bing。\n内置了聊天、翻译、AI 作图等多种模式，支持 Windows、macOS、Linux。\n还有 Android 端也支持，甚至还支持 Win7。\n下载：https://github.com/akl7777777/free-chatgpt-client-pub",
-      "items": [],
-      "title": "5.3、ShellGPT"
-    },
-    {
-      "description": "ChatGPT Desktop 是 ChatGPT 自发布以前，最早开发的桌面客户端之一。\n使用 Rust 语言编写，本质上就是将 ChatGPT 网页版打包为桌面版，支持 Windows、Linux、MacOS 多平台。\n所以使用时需要使用魔法。\n地址：https://github.com/lencx/ChatGPT",
-      "items": [],
-      "title": "5.4、ChatGPT Desktop"
-    },
-    {
-      "description": "Chatbox 是一款开源跨平台的 ChatGPT 客户端。\n需要填入 API Key 才能使用，它的特点是，内置了提示词和与管理工具，支持 Windows、Mac 和 Linux 多平台。\n下载：https://github.com/Bin-Huang/chatbox",
-      "items": [],
-      "title": "5.5、Chatbox"
-    },
-    {
-      "description": "ChatALL 是一款聚合了多家语言模型的桌面客户端，可以把一条指令同时发给多个 AI，帮助您发现最好的回答。\n支持 Windows、macOS 和 Linux。\n下载：https://github.com/sunner/ChatALL",
-      "items": [],
-      "title": "5.6、ChatALL"
-    },
-    {
-      "description": "MacGPT 是 一款免费的 macOS 桌面 ChatGPT 客户端。\n支持网页 和 API 两种方式，支持全局调用，也支持在菜单栏上调用，还可以语音输入。\n它的另一个特点，是采用自愿付费的方法，你想免费下载，只需要输入 0 元，即可下载，但只支持 macOS 12+。\n此外，MacGPT 还有 iOS 客户端，叫 GeePeeTee。\n下载：https://www.macgpt.com\niOS：https://apps.apple.com/nl/app/id6446040815",
-      "items": [],
-      "title": "5.7、MacGPT"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "六、手机应用"
-    },
-    {
-      "description": "OpenAI 现在已经发布了 ChatGPT 的 iOS 客户端，但目前只能通过 App Store 外区帐号下载。\n外区 ID 注册教程：ChatGPT 手机版上线，1 分钟教你如何下载\n地址：OpenAI Chatgpt",
-      "items": [],
-      "title": "6.1、ChatGPT"
-    },
-    {
-      "description": "微软推出的基于 ChatGPT 的搜索应用 NewBing，可以使用 Edge 浏览器来使用，支持 iOS 和安卓平台。\niOS 上还可以用 Bing App 来使用，但同样也需要用外区 ID 来下载。\n此外，你还可以通过修改 UA，来让任意浏览器都可以使用 New Bing，具体可查看文章《A05 - NewBing》。\n地址：Edge Browser、Bing Search",
-      "items": [],
-      "title": "6.2、NewBing"
-    },
-    {
-      "description": "Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Claude、Sage 等多种语言模型。\n免费用户还可以每天使用 1 次 GPT-4 和 3 次 Claude+，不过它目前只有 iOS 版。\n地址：Poe",
-      "items": [],
-      "title": "6.3、Poe"
-    },
-    {
-      "description": "GeePeeTee 与桌面客户端 MacGPT 出自同一家，支持 iOS，只需要输入 ChatGPT 的 API Key 就可以开启聊天。\n地址：GeePeeTee",
-      "items": [],
-      "title": "6.4、GeePeeTee"
-    },
-    {
-      "description": "国内用户开发的 iOS 套壳 ChatGPT，它可以无需设置就可以使用，而且免费无广告，是没有魔法用户的好帮手。\n地址：问东风 AI\n类似应用：ChatAI Lite",
-      "items": [],
-      "title": "6.5、问东风 AI"
-    },
-    {
-      "description": "灵动 AiChat 是国内站长开发的免费 ChatGPT ，有网页版和客户端版本，无需登录，国内网络就可以直接使用。\n本质上，这款软件就是将网页版嵌入到客户端里，所以它可以动态更新网页，也就不会失效了。\n支持 Windows、macOS、安卓 三个平台。\n网页：https://aiask7.com/ 密码：666\n地址：https://kkks.lanzout.com/s/ldaichat",
-      "items": [],
-      "title": "6.6、灵动 AiChat"
-    },
-    {
-      "description": "由国内开发者基于 ChatGPT开发的安卓应用，国内可免魔法直接使用，有问答、聊天、写作、绘画 4 大功能。\n免费用户每天免费使用 20 次。\n下载：https://miui.lanzoum.com/iSZGU0qosssf\n类似应用：AIChat 中文，使用时需要登录用，但注册时可以随便填一个手机号就行。",
-      "items": [],
-      "title": "6.7、ChatGPT 在线"
-    },
-    {
-      "description": "随着 ChatGPT 的大火，众多公司也入局了 ChatGPT，推出了自己的大语言模型，这其中不乏有很多佼佼者。",
-      "items": [],
-      "title": "七、大语言模型"
-    },
-    {
-      "description": "Claude 是原 OpenAI 员工离职后自立门户开发的 AI 机器人，效果媲美 ChatGPT，被称为 ChatGPT 的最强对手。\n想要使用 Claude，也很简单，在“魔法”的加持下，步骤可以分为两步。\n一是注册一个 Slack 帐号，如果你有谷歌帐号，可直接授权登录，然后创建一个“工作区”。\n二是搜索并添加 Claude 到 Slack，即可使用。\n地址：https://slack.com [🔍]",
-      "items": [],
-      "title": "7.1、Claude"
-    },
-    {
-      "description": "由谷歌公司推出的类 ChatGPT 应用，目前已经开放使用，但还是需要申请才能使用。\n与 ChatGPT 相比，Bard 还不支持代码功能，也不支持中文。\n地址：https://bard.google.com",
-      "items": [],
-      "title": "7.2、Bard"
-    },
-    {
-      "description": "由斯坦福学者联手 CMU、UC伯克利等推出一个全新模型—— 130 亿参数的 Vicuna，俗称「小羊驼」。\n经测试，Vicuna 已经能达到 ChatGPT 90% 的性能。\n地址：https://chat.lmsys.org",
-      "items": [],
-      "title": "7.3、Vicuna"
-    },
-    {
-      "description": "由百度公司推出的大语言模型，也是继 ChatGPT 之后最早入局的，现已全面开放，但仍然需要申请才能使用。\n除此之外，文心一言还支持绘画、视频生成等功能。\n地址：https://yiyan.baidu.com",
-      "items": [],
-      "title": "7.4、文心一言"
-    },
-    {
-      "description": "由阿里推出的大语言模型，现已开放申请，申请时需要填写企业名称，但实测随便写一个公司名称，也可以通过。\n上手体验后感觉很不错，有望成为国内最好的大语言模型。\n地址：https://tongyi.aliyun.com",
-      "items": [],
-      "title": "7.5、通义千问"
-    },
-    {
-      "description": "下面这些网站收集了网友使用过的一些使用技巧，可以让你上手 ChatGPT 更快速。\n",
-      "items": [],
-      "title": "八、使用技巧"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Starchart"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "关注奶酪"
+      "title": "四、网页应用"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:34:03.848Z",
+    "last_updated": "2026-08-19T12:06:30.663Z",
     "original_repository": "runningcheese/Awesome-AI",
+    "original_repository_id": 599904347,
     "original_repository_sha": "50e965595d1fe120056ad9de22cc8239aea1fa37",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI",
     "enhanced_repository_description": null,
