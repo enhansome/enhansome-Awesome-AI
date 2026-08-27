@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-26T13:26:59Z",
                 "owner": "xx025",
                 "repo": "carrot",
-                "stars": 17176
+                "stars": 17175
               }
             }
           ],
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-11T02:07:25Z",
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88651
+                "stars": 88653
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-04-30T13:54:58Z",
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15277
+                "stars": 15276
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2024-08-29T17:58:11Z",
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54457
+                "stars": 54456
               }
             }
           ],
@@ -249,7 +249,7 @@
                 "last_commit": "2026-08-14T14:13:27Z",
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41576
+                "stars": 41582
               }
             }
           ],
@@ -284,9 +284,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:12.644Z",
-    "original_repository": "runningcheese/Awesome-AI",
-    "original_repository_id": 599904347,
+    "last_updated": "2026-08-27T11:21:25.938Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 599904347,
+      "language": null,
+      "last_commit": "2024-03-06T09:54:39Z",
+      "owner": "runningcheese",
+      "repo": "Awesome-AI",
+      "stars": 2817
+    },
     "original_repository_sha": "50e965595d1fe120056ad9de22cc8239aea1fa37",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI",
     "enhanced_repository_description": null,
