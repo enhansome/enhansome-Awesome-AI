@@ -18,7 +18,8 @@
                 "owner": "xx025",
                 "repo": "carrot",
                 "stars": 17175
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": null,
@@ -46,7 +47,8 @@
                 "owner": "xtekky",
                 "repo": "gpt4free",
                 "stars": 66607
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "包括 Forefront.ai、Poe.com、BingChat 等网站。\n接口是通过“逆向工程”获取的，然后需要在 Discord 上面使用（免费），算得上是目前最热门的 GPT-4 项目。",
@@ -74,7 +76,8 @@
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
                 "stars": 33340
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "上面两个并没有开源，而 Chatbot UI 填补了这一空缺。\n同样，Chatbot UI 也是基于 ChatGPT API 的网页应用，界面与原版很像，可自定义提示词，支持数据导入导出。\n地址：https://ai.qiaomu.pro/zh [🔍]",
@@ -95,8 +98,9 @@
                 "last_commit": "2026-08-11T02:07:25Z",
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88653
-              }
+                "stars": 88655
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             },
             {
               "node_type": "item",
@@ -111,7 +115,8 @@
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
                 "stars": 31491
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             },
             {
               "node_type": "item",
@@ -125,8 +130,9 @@
                 "last_commit": "2026-04-30T13:54:58Z",
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15276
-              }
+                "stars": 15275
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             },
             {
               "node_type": "item",
@@ -141,7 +147,8 @@
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
                 "stars": 7935
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             },
             {
               "node_type": "item",
@@ -156,7 +163,8 @@
                 "owner": "79E",
                 "repo": "ChatGpt-Web",
                 "stars": 1366
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "如果你想利用 ChatGPT API 自建 ChatGTP 网页，以供别人使用，下面这些开源的项目，都是不错的选择。",
@@ -184,7 +192,8 @@
                 "owner": "1595901624",
                 "repo": "gpt-aggregated-edition",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "OneGPT 一款聚合了 ChatGPT、文心一言、通义千问、POE、Bard、New Bing 等多个平台的客户端。\n同样，软件也内置了免费的 ChatGPT 镜像网站，同时你也可以使用自己的 API Key。\n支持 Windows、macOS 和 Linux。",
@@ -205,8 +214,9 @@
                 "last_commit": "2025-06-13T01:17:33Z",
                 "owner": "akl7777777",
                 "repo": "ShellGPT",
-                "stars": 2029
-              }
+                "stars": 2028
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "ShellGPT 也是一款聚合了多个网站的免费 ChatGPT 客户端，无需登录，多节点自动切换，还支持免翻 Bing。\n内置了聊天、翻译、AI 作图等多种模式，支持 Windows、macOS、Linux。\n还有 Android 端也支持，甚至还支持 Win7。",
@@ -227,8 +237,9 @@
                 "last_commit": "2024-08-29T17:58:11Z",
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54456
-              }
+                "stars": 54461
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "ChatGPT Desktop 是 ChatGPT 自发布以前，最早开发的桌面客户端之一。\n使用 Rust 语言编写，本质上就是将 ChatGPT 网页版打包为桌面版，支持 Windows、Linux、MacOS 多平台。\n所以使用时需要使用魔法。",
@@ -249,8 +260,9 @@
                 "last_commit": "2026-08-14T14:13:27Z",
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41582
-              }
+                "stars": 41588
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "Chatbox 是一款开源跨平台的 ChatGPT 客户端。\n需要填入 API Key 才能使用，它的特点是，内置了提示词和与管理工具，支持 Windows、Mac 和 Linux 多平台。",
@@ -271,8 +283,9 @@
                 "last_commit": "2026-08-19T06:08:23Z",
                 "owner": "ai-shifu",
                 "repo": "ChatALL",
-                "stars": 16483
-              }
+                "stars": 16488
+              },
+              "first_seen": "2026-08-28T06:55:19.880Z"
             }
           ],
           "description": "ChatALL 是一款聚合了多家语言模型的桌面客户端，可以把一条指令同时发给多个 AI，帮助您发现最好的回答。\n支持 Windows、macOS 和 Linux。",
@@ -284,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:25.938Z",
+    "last_updated": "2026-08-28T06:55:19.880Z",
     "original_repository_info": {
       "archived": false,
       "id": 599904347,
