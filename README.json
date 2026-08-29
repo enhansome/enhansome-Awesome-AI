@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源",
+                "homepage": null,
                 "id": 609721722,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-26T13:26:59Z",
+                "open_issues": 37,
                 "owner": "xx025",
                 "repo": "carrot",
-                "stars": 17175
+                "stars": 17174,
+                "topics": [
+                  "ai",
+                  "chat",
+                  "chatgpt",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -41,12 +51,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+                "homepage": "https://t.me/g4f_channel",
                 "id": 620936652,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T06:56:46Z",
+                "open_issues": 2,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66607
+                "stars": 66608,
+                "topics": [
+                  "chatbot",
+                  "chatbots",
+                  "chatgpt",
+                  "chatgpt-4",
+                  "chatgpt-api",
+                  "chatgpt-free",
+                  "chatgpt4",
+                  "deepseek",
+                  "deepseek-api",
+                  "deepseek-r1",
+                  "gpt",
+                  "gpt-4",
+                  "gpt-4o",
+                  "gpt4",
+                  "gpt4-api",
+                  "language-model",
+                  "openai",
+                  "openai-api",
+                  "openai-chatgpt",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -70,12 +106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI chat for any model.",
+                "homepage": "https://JoinTakeoff.com",
                 "id": 612640604,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-03T00:38:07Z",
+                "open_issues": 240,
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33340
+                "stars": 33341,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -93,12 +134,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+                "homepage": "https://nextchat.club",
                 "id": 612344730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:07:25Z",
+                "open_issues": 853,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88655
+                "stars": 88662,
+                "topics": [
+                  "calclaude",
+                  "chatgpt",
+                  "claude",
+                  "cross-platform",
+                  "desktop",
+                  "fe",
+                  "gemini",
+                  "gemini-pro",
+                  "gemini-server",
+                  "gemini-ultra",
+                  "gpt-4o",
+                  "groq",
+                  "nextjs",
+                  "ollama",
+                  "react",
+                  "tauri",
+                  "tauri-app",
+                  "vercel",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             },
@@ -109,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "用 Express 和  Vue3 搭建的 ChatGPT 演示网页",
+                "homepage": null,
                 "id": 599394820,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2024-08-16T15:26:57Z",
+                "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31491
+                "stars": 31490,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             },
@@ -125,12 +196,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+                "homepage": "https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT",
                 "id": 608660982,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T13:54:58Z",
+                "open_issues": 129,
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15275
+                "stars": 15276,
+                "topics": [
+                  "chatbot",
+                  "chatglm",
+                  "chatgpt-api",
+                  "claude",
+                  "dalle3",
+                  "ernie",
+                  "gemini",
+                  "gemma",
+                  "inspurai",
+                  "llama",
+                  "midjourney",
+                  "minimax",
+                  "moss",
+                  "ollama",
+                  "qwen",
+                  "spark",
+                  "stablelm"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             },
@@ -141,12 +235,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal web UI for ChatGPT. ",
+                "homepage": "https://chatgpt.ddiu.me",
                 "id": 608490374,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-27T01:44:01Z",
+                "open_issues": 48,
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
-                "stars": 7935
+                "stars": 7935,
+                "topics": [
+                  "astro",
+                  "chatgpt",
+                  "chatgpt4",
+                  "gpt-3",
+                  "gpt-35",
+                  "gpt-35-turbo",
+                  "openai",
+                  "openai-api"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             },
@@ -157,12 +265,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。",
+                "homepage": "http://aizj.top",
                 "id": 632538509,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-03T17:41:54Z",
+                "open_issues": 9,
                 "owner": "79E",
                 "repo": "ChatGpt-Web",
-                "stars": 1366
+                "stars": 1366,
+                "topics": [
+                  "chat",
+                  "chatbot",
+                  "chatgpt",
+                  "openai",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -186,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台",
+                "homepage": null,
                 "id": 616997669,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-07T01:17:43Z",
+                "open_issues": 11,
                 "owner": "1595901624",
                 "repo": "gpt-aggregated-edition",
-                "stars": 715
+                "stars": 715,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -209,12 +333,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**",
+                "homepage": "https://index.shellgpt.link",
                 "id": 611745583,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-13T01:17:33Z",
+                "open_issues": 6,
                 "owner": "akl7777777",
                 "repo": "ShellGPT",
-                "stars": 2028
+                "stars": 2028,
+                "topics": [
+                  "bobplugin",
+                  "chatgpt",
+                  "chatgpt-app",
+                  "chatgpt3",
+                  "chatgptdesktop",
+                  "gpt4",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -232,12 +369,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                "homepage": null,
                 "id": 575340621,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-08-29T17:58:11Z",
+                "open_issues": 942,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54461
+                "stars": 54462,
+                "topics": [
+                  "ai",
+                  "app",
+                  "application",
+                  "chatgpt",
+                  "desktop-app",
+                  "gpt",
+                  "gpt-3",
+                  "linux",
+                  "macos",
+                  "notes-app",
+                  "openai",
+                  "rust",
+                  "tauri",
+                  "webview",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -255,12 +413,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful AI Client",
+                "homepage": "https://chatboxai.app?utm_medium=github",
                 "id": 610260322,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T14:13:27Z",
+                "open_issues": 1253,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41588
+                "stars": 41600,
+                "topics": [
+                  "assistant",
+                  "chatbot",
+                  "chatgpt",
+                  "claude",
+                  "claude-code",
+                  "copilot",
+                  "deepseek",
+                  "gemini",
+                  "gpt",
+                  "gpt-5",
+                  "ollama",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -278,12 +454,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
+                "homepage": "https://chatall.ai",
                 "id": 625187946,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T06:08:23Z",
+                "open_issues": 228,
                 "owner": "ai-shifu",
                 "repo": "ChatALL",
-                "stars": 16488
+                "stars": 16488,
+                "topics": [
+                  "bingchat",
+                  "chatbot",
+                  "chatgpt",
+                  "desktop-app",
+                  "electron",
+                  "electron-app",
+                  "generative-ai",
+                  "gpt-4o",
+                  "hacktoberfest",
+                  "linux",
+                  "macos",
+                  "vuejs3",
+                  "vuetify3",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
             }
@@ -297,15 +493,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:19.880Z",
+    "last_updated": "2026-08-29T04:09:00.285Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome AI，你的《人工智能指南》！",
+      "homepage": "https://www.runningcheese.com/aaa",
       "id": 599904347,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-06T09:54:39Z",
+      "open_issues": 6,
       "owner": "runningcheese",
       "repo": "Awesome-AI",
-      "stars": 2817
+      "stars": 2817,
+      "topics": []
     },
     "original_repository_sha": "50e965595d1fe120056ad9de22cc8239aea1fa37",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI",
