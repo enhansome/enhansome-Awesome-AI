@@ -60,7 +60,7 @@
                 "open_issues": 2,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66608,
+                "stars": 66609,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -184,7 +184,7 @@
                 "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31490,
+                "stars": 31489,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:09:00.285Z",
+    "last_updated": "2026-08-29T04:24:25.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",

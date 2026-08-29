@@ -233,7 +233,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 ### 3.5、GPT4free
 
-[GPT4free](https://github.com/xtekky/gpt4free) ⭐ 66,608 | 🐛 2 | 🌐 Python | 📅 2026-08-26 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
+[GPT4free](https://github.com/xtekky/gpt4free) ⭐ 66,609 | 🐛 2 | 🌐 Python | 📅 2026-08-26 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
 
 包括 Forefront.ai、Poe.com、BingChat 等网站。
 
