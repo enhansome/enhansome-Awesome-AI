@@ -139,7 +139,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 | ----------------------------------------------------------------------------------------------- | ----------------------- |
 | 🌐 <https://chat-shared.zhile.io/shared.html> 👍                                                | 无限制、需魔法，免费畅爽使用 ChatGPT。 |
 | 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)                                             | 更多镜像网站。                 |
-| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot) ⭐ 17,174 \| 🐛 37 \| 📅 2026-04-26 | 更多镜像网站。                 |
+| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot) ⭐ 17,176 \| 🐛 38 \| 📅 2026-04-26 | 更多镜像网站。                 |
 
 <br/>
 
@@ -233,7 +233,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 ### 3.5、GPT4free
 
-[GPT4free](https://github.com/xtekky/gpt4free) ⭐ 66,609 | 🐛 2 | 🌐 Python | 📅 2026-08-26 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
+[GPT4free](https://github.com/xtekky/gpt4free) ⭐ 66,614 | 🐛 2 | 🌐 Python | 📅 2026-08-26 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
 
 包括 Forefront.ai、Poe.com、BingChat 等网站。
 
@@ -287,7 +287,7 @@ ChatKit 是另一款基于 OpenAI API 的增强版 ChatGPT。
 
 地址：<https://ai.qiaomu.pro/zh> \[[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_ChatbotUI.png)]
 
-开源：<https://github.com/mckaywrigley/chatbot-ui> ⭐ 33,341 | 🐛 240 | 🌐 TypeScript | 📅 2024-08-03
+开源：<https://github.com/mckaywrigley/chatbot-ui> ⭐ 33,342 | 🐛 240 | 🌐 TypeScript | 📅 2024-08-03
 
 <br/>
 
@@ -317,11 +317,11 @@ MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独�
 
 如果你想利用 ChatGPT  API 自建 ChatGTP 网页，以供别人使用，下面这些开源的项目，都是不错的选择。
 
-* [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,662 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - \[[演示网站](https://chat-gpt-next-web.vercel.app/)]，奶酪搭建的网站：<https://cheesechat.vercel.app>
+* [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,668 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - \[[演示网站](https://chat-gpt-next-web.vercel.app/)]，奶酪搭建的网站：<https://cheesechat.vercel.app>
 * [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web) ⚠️ Archived - \[[演示网站](https://chat5.aichatos.com)]，第三方镜像网站最常用的项目。
 * [Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ⭐ 15,276 | 🐛 129 | 🌐 Python | 📅 2026-04-30 - \[[演示网站](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT)]，可直接在 Hugging Face 上部署。
-* [Chatgpt Demo](https://github.com/ddiu8081/chatgpt-demo) ⭐ 7,935 | 🐛 48 | 🌐 TypeScript | 📅 2023-12-27 - \[[演示网站](https://chatgpt.ddiu.me/)]，速度飞快
-* [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) ⭐ 1,366 | 🐛 9 | 🌐 TypeScript | 📅 2025-04-03 - \[[演示网站](https://www.aizj.top)]，使用 React 搭建，还支持绘画。
+* [Chatgpt Demo](https://github.com/ddiu8081/chatgpt-demo) ⭐ 7,937 | 🐛 48 | 🌐 TypeScript | 📅 2023-12-27 - \[[演示网站](https://chatgpt.ddiu.me/)]，速度飞快
+* [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) ⭐ 1,365 | 🐛 9 | 🌐 TypeScript | 📅 2025-04-03 - \[[演示网站](https://www.aizj.top)]，使用 React 搭建，还支持绘画。
 
 <br/>
 
@@ -369,7 +369,7 @@ MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独�
 
 还有 Android 端也支持，甚至还支持 Win7。
 
-下载：<https://github.com/akl7777777/free-chatgpt-client-pub> ⭐ 2,028 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-13
+下载：<https://github.com/akl7777777/free-chatgpt-client-pub> ⭐ 2,027 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-13
 
 <br/>
 
@@ -381,7 +381,7 @@ ChatGPT Desktop 是 ChatGPT 自发布以前，最早开发的桌面客户端之�
 
 所以使用时需要使用魔法。
 
-地址：<https://github.com/lencx/ChatGPT> ⭐ 54,462 | 🐛 942 | 🌐 Rust | 📅 2024-08-29
+地址：<https://github.com/lencx/ChatGPT> ⭐ 54,465 | 🐛 942 | 🌐 Rust | 📅 2024-08-29
 
 <br/>
 
@@ -391,7 +391,7 @@ Chatbox 是一款开源跨平台的 ChatGPT 客户端。
 
 需要填入 API Key 才能使用，它的特点是，内置了提示词和与管理工具，支持 Windows、Mac 和 Linux 多平台。
 
-下载：<https://github.com/Bin-Huang/chatbox> ⭐ 41,600 | 🐛 1,253 | 🌐 TypeScript | 📅 2026-08-14
+下载：<https://github.com/Bin-Huang/chatbox> ⭐ 41,606 | 🐛 1,253 | 🌐 TypeScript | 📅 2026-08-14
 
 <br/>
 
@@ -401,7 +401,7 @@ ChatALL 是一款聚合了多家语言模型的桌面客户端，可以把一条
 
 支持 Windows、macOS 和 Linux。
 
-下载：<https://github.com/sunner/ChatALL> ⭐ 16,488 | 🐛 228 | 🌐 JavaScript | 📅 2026-08-19
+下载：<https://github.com/sunner/ChatALL> ⭐ 16,487 | 🐛 228 | 🌐 JavaScript | 📅 2026-08-19
 
 <br/>
 
@@ -587,7 +587,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
  
 
-* [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,879 | 🐛 45 | 📅 2026-04-28：各种场景使用指南，学习怎么让它听你的话。
+* [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,891 | 🐛 45 | 📅 2026-04-28：各种场景使用指南，学习怎么让它听你的话。
 * [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
 * [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
 * [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
@@ -604,4 +604,4 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
