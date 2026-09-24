@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-05T19:50:17Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "xx025",
                 "repo": "carrot",
                 "stars": 17200,
@@ -60,7 +60,7 @@
                 "open_issues": 3,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66718,
+                "stars": 66730,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -143,7 +143,7 @@
                 "open_issues": 865,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88803,
+                "stars": 88806,
                 "topics": [
                   "calclaude",
                   "chatgpt",
@@ -244,7 +244,7 @@
                 "open_issues": 48,
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
-                "stars": 7925,
+                "stars": 7924,
                 "topics": [
                   "astro",
                   "chatgpt",
@@ -378,7 +378,7 @@
                 "open_issues": 948,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54559,
+                "stars": 54563,
                 "topics": [
                   "ai",
                   "app",
@@ -419,10 +419,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T13:37:52Z",
-                "open_issues": 1302,
+                "open_issues": 1304,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41836,
+                "stars": 41849,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -463,7 +463,7 @@
                 "open_issues": 234,
                 "owner": "ai-shifu",
                 "repo": "ChatALL",
-                "stars": 16501,
+                "stars": 16499,
                 "topics": [
                   "bingchat",
                   "chatbot",
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:28:41.981Z",
+    "last_updated": "2026-09-24T01:21:50.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",
