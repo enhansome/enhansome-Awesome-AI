@@ -56,7 +56,7 @@
                 "id": 620936652,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T01:23:58Z",
+                "last_commit": "2026-10-03T04:19:00Z",
                 "open_issues": 6,
                 "owner": "xtekky",
                 "repo": "gpt4free",
@@ -102,7 +102,7 @@
             {
               "node_type": "item",
               "title": "开源：https://github.com/mckaywrigley/chatbot-ui",
-              "description": null,
+              "description": "mckaywrigley/chatbot-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
             {
               "node_type": "item",
               "title": "下载：https://github.com/1595901624/gpt-aggregated-edition",
-              "description": null,
+              "description": "1595901624/gpt-aggregated-edition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "下载：https://github.com/akl7777777/free-chatgpt-client-pub",
-              "description": null,
+              "description": "akl7777777/ShellGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "地址：https://github.com/lencx/ChatGPT",
-              "description": null,
+              "description": "lencx/ChatGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
                 "open_issues": 950,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54584,
+                "stars": 54585,
                 "topics": [
                   "ai",
                   "app",
@@ -409,7 +409,7 @@
             {
               "node_type": "item",
               "title": "下载：https://github.com/Bin-Huang/chatbox",
-              "description": null,
+              "description": "chatboxai/chatbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,10 +419,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:09:13Z",
-                "open_issues": 1315,
+                "open_issues": 1316,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41929,
+                "stars": 41931,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -450,7 +450,7 @@
             {
               "node_type": "item",
               "title": "下载：https://github.com/sunner/ChatALL",
-              "description": null,
+              "description": "ai-shifu/ChatALL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:55:12.740Z",
+    "last_updated": "2026-10-03T04:24:08.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",

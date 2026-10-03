@@ -381,7 +381,7 @@ ChatGPT Desktop 是 ChatGPT 自发布以前，最早开发的桌面客户端之�
 
 所以使用时需要使用魔法。
 
-地址：<https://github.com/lencx/ChatGPT> ⭐ 54,584 | 🐛 950 | 🌐 Rust | 📅 2024-08-29
+地址：<https://github.com/lencx/ChatGPT> ⭐ 54,585 | 🐛 950 | 🌐 Rust | 📅 2024-08-29
 
 <br/>
 
@@ -391,7 +391,7 @@ Chatbox 是一款开源跨平台的 ChatGPT 客户端。
 
 需要填入 API Key 才能使用，它的特点是，内置了提示词和与管理工具，支持 Windows、Mac 和 Linux 多平台。
 
-下载：<https://github.com/Bin-Huang/chatbox> ⭐ 41,929 | 🐛 1,315 | 🌐 TypeScript | 📅 2026-09-24
+下载：<https://github.com/Bin-Huang/chatbox> ⭐ 41,931 | 🐛 1,316 | 🌐 TypeScript | 📅 2026-09-24
 
 <br/>
 
@@ -587,7 +587,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
  
 
-* [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,893 | 🐛 47 | 📅 2026-04-28：各种场景使用指南，学习怎么让它听你的话。
+* [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,897 | 🐛 47 | 📅 2026-04-28：各种场景使用指南，学习怎么让它听你的话。
 * [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
 * [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
 * [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
