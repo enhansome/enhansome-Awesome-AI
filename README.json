@@ -56,11 +56,11 @@
                 "id": 620936652,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T04:19:00Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T23:39:29Z",
+                "open_issues": 7,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66756,
+                "stars": 66757,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -143,7 +143,7 @@
                 "open_issues": 850,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88820,
+                "stars": 88826,
                 "topics": [
                   "calclaude",
                   "chatgpt",
@@ -205,7 +205,7 @@
                 "open_issues": 130,
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15275,
+                "stars": 15274,
                 "topics": [
                   "chatbot",
                   "chatglm",
@@ -375,10 +375,10 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2024-08-29T17:58:11Z",
-                "open_issues": 950,
+                "open_issues": 949,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54585,
+                "stars": 54580,
                 "topics": [
                   "ai",
                   "app",
@@ -419,10 +419,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:09:13Z",
-                "open_issues": 1316,
+                "open_issues": 1315,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41931,
+                "stars": 41936,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:08.317Z",
+    "last_updated": "2026-10-04T02:34:53.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",
