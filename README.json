@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-05T19:50:17Z",
-                "open_issues": 49,
+                "open_issues": 51,
                 "owner": "xx025",
                 "repo": "carrot",
-                "stars": 17209,
+                "stars": 17212,
                 "topics": [
                   "ai",
                   "chat",
@@ -57,10 +57,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-23T10:49:10Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66922,
+                "stars": 66930,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -115,7 +115,7 @@
                 "open_issues": 244,
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33325,
+                "stars": 33323,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
@@ -143,7 +143,7 @@
                 "open_issues": 854,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88891,
+                "stars": 88894,
                 "topics": [
                   "calclaude",
                   "claude",
@@ -243,7 +243,7 @@
                 "open_issues": 48,
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
-                "stars": 7907,
+                "stars": 7909,
                 "topics": [
                   "astro",
                   "chatgpt",
@@ -377,7 +377,7 @@
                 "open_issues": 952,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54650,
+                "stars": 54661,
                 "topics": [
                   "ai",
                   "app",
@@ -418,10 +418,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:09:13Z",
-                "open_issues": 1349,
+                "open_issues": 1351,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 42133,
+                "stars": 42145,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -458,11 +458,11 @@
                 "id": 625187946,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T21:41:01Z",
+                "last_commit": "2026-10-25T21:38:28Z",
                 "open_issues": 237,
                 "owner": "ai-shifu",
                 "repo": "ChatALL",
-                "stars": 16510,
+                "stars": 16511,
                 "topics": [
                   "bingchat",
                   "chatbot",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:06:40.559Z",
+    "last_updated": "2026-10-26T01:07:19.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",
@@ -504,7 +504,7 @@
       "open_issues": 5,
       "owner": "runningcheese",
       "repo": "Awesome-AI",
-      "stars": 2817,
+      "stars": 2816,
       "topics": []
     },
     "original_repository_sha": "50e965595d1fe120056ad9de22cc8239aea1fa37",
