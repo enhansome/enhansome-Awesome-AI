@@ -60,7 +60,7 @@
                 "open_issues": 2,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 67050,
+                "stars": 67049,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -115,7 +115,7 @@
                 "open_issues": 246,
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33308,
+                "stars": 33307,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
@@ -143,7 +143,7 @@
                 "open_issues": 866,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88951,
+                "stars": 88959,
                 "topics": [
                   "calclaude",
                   "claude",
@@ -183,7 +183,7 @@
                 "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31329,
+                "stars": 31324,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:19.880Z"
@@ -204,7 +204,7 @@
                 "open_issues": 131,
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15241,
+                "stars": 15243,
                 "topics": [
                   "chatbot",
                   "chatglm",
@@ -243,7 +243,7 @@
                 "open_issues": 48,
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
-                "stars": 7905,
+                "stars": 7904,
                 "topics": [
                   "astro",
                   "chatgpt",
@@ -273,7 +273,7 @@
                 "open_issues": 9,
                 "owner": "79E",
                 "repo": "ChatGpt-Web",
-                "stars": 1355,
+                "stars": 1354,
                 "topics": [
                   "chat",
                   "chatbot",
@@ -341,7 +341,7 @@
                 "open_issues": 6,
                 "owner": "akl7777777",
                 "repo": "ShellGPT",
-                "stars": 2017,
+                "stars": 2016,
                 "topics": [
                   "bobplugin",
                   "chatgpt",
@@ -374,10 +374,10 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2024-08-29T17:58:11Z",
-                "open_issues": 959,
+                "open_issues": 962,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54669,
+                "stars": 54664,
                 "topics": [
                   "ai",
                   "app",
@@ -418,10 +418,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-12T16:12:20Z",
-                "open_issues": 1370,
+                "open_issues": 1369,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 42315,
+                "stars": 42328,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -462,7 +462,7 @@
                 "open_issues": 237,
                 "owner": "ai-shifu",
                 "repo": "ChatALL",
-                "stars": 16508,
+                "stars": 16506,
                 "topics": [
                   "bingchat",
                   "chatbot",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:23:38.821Z",
+    "last_updated": "2026-11-14T03:10:23.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI，你的《人工智能指南》！",
